@@ -1,4 +1,4 @@
-# Template for writing user-friendly, interactive scripts
+# Boilerplate for writing user-friendly, interactive scripts
 
 This repo can be used as a base to write more user-friendly, interactive system scripts.
 
