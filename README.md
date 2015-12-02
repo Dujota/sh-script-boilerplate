@@ -1,6 +1,6 @@
-# Boilerplate for writing user-friendly, interactive scripts
+# Boilerplate for writing user-friendly, interactive shell scripts
 
-This repo can be used as a base to write more user-friendly, interactive system scripts.
+This repo can be used as a base to write more user-friendly, interactive shell scripts.
 
 Browse all the cool functions in `utils.sh` such as `ask_for_confirmation` and `answer_is_yes`. Rad!
 
